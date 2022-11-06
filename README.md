@@ -1,0 +1,3 @@
+# qr-generator
+
+GENERATE A QR-CODE FOR ANY OF YOUR LINKS
